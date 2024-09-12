@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'TenantApp',
     'core',
-    'admin_dashbaord',
+    'admin_dashboard',
 ]
 
 MIDDLEWARE = [
